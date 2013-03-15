@@ -5,4 +5,5 @@ Written by Kristaps Straupe in 2006.
 
 [Windows binary download][1]
 
-  [1]: https://github.com/downloads/mmozeiko/Squares3D-prototype/Squares3D-prototype.7z
+  [1]: https://docs.google.com/file/d/0B6NdBDx_PciXRjhJN2dhQmV0NFE/edit?usp=sharing
+  
